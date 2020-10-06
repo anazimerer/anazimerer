@@ -1,4 +1,4 @@
-### Ana Paula Zimerer 👋
+### < h2 align= "center"> Ana Paula Zimerer 👋</h2>
 Full Stack Web developer 
 
 <!--
