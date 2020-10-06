@@ -1,6 +1,6 @@
-<h2 align="center"> ### Ana Paula Zimerer 👋</h2>
+<h2 align="center"> Ana Paula Zimerer 👋</h2>
 <h4 align="center"> Full Stack Web developer </h4>
-<p align= "center"> Javascript | React| HTML| CSS | NodeJS | MySQL | Typescript | Git | AWS </p> 
+<p align= "center"> Javascript | React | HTML | CSS | NodeJS | MySQL | Typescript | Git | AWS </p> 
 
 <!--
 **anazimerer/anazimerer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
