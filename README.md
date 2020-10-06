@@ -1,5 +1,5 @@
 <h2 align="center" wigth="bold"> Ana Paula Zimerer 👋</h2>
-<h3 align="center"  Full Stack Web developer </h4>
+<h3 align="center"> Full Stack Web developer </h3>
 <p align= "center"> Javascript | React | HTML | CSS | NodeJS | MySQL | Typescript | Git | AWS </p> 
 
 <!--
